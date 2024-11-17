@@ -1,1 +1,5 @@
-This folder contains all output images and files of this project.
+![brain1](output_images/brain1.png)
+![brain2](output_images/brain2.png)
+![brain3](output_images/brain3.png)
+![brain4](output_images/brain4.png)
+![brain5](output_images/brain5.png)
