@@ -2,4 +2,4 @@
 ![brain2](input_images/brain2.jpg)
 ![brain3](input_images/brain3.jpg)
 ![brain4](input_images/brain4.jpg)
-![brain5](input_images/brain.jpg)
+![brain5](input_images/brain5.jpg)
